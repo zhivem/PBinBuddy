@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/zhivem/RecycleBinManagerPY/refs/heads/main/RecycleBinManager.ico" width="4%" height="4%"> RecycleBinManager by [Zhivem]
+# <img src="https://raw.githubusercontent.com/zhivem/RecycleBinManagerPY/refs/heads/main/RecycleBinManager.ico" width="4%" height="4%"> PBinBuddy by [Zhivem]
 
 ## Скриншоты 
 ![image](https://github.com/user-attachments/assets/b71883eb-768b-4d0a-aa2f-df2fb807be10)
@@ -10,7 +10,7 @@
 
 ## Введение
 
-RecycleBinManager — это Windows-приложение, написанное на языке `Python` и работающее в системном трее. Оно предоставляет удобные инструменты для управления корзиной: очистка, открытие, настройка автозапуска, выбор набора иконок и многое другое.
+PBinBuddy — это Windows-приложение, написанное на языке `Python` и работающее в системном трее. Оно предоставляет удобные инструменты для управления корзиной: очистка, открытие, настройка автозапуска, выбор набора иконок и многое другое.
 
 ## Основные возможности 
 
