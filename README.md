@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/27b121cc-eddd-40fc-bbaf-38340ffc7fce)
 
 > [!NOTE]
-> Утилиту RecycleBinManager, написанную на языке `C#`, можно посмотреть здесь: [BinBuddy на C#](https://github.com/zhivem/MinibinForkC). Эта версия утилиты имеет меньший размер и позволяет устанавливать дополнительные иконки. Эта версия обновляется реже.
+> Утилиту RecycleBinManager, написанную на языке `C#`, можно посмотреть здесь: [BinBuddy на C#](https://github.com/zhivem/MinibinForkC). Версия PBinBuddy утилиты имеет меньший размер и позволяет устанавливать дополнительные иконки. Эта версия обновляется реже.
 
 ## Введение
 
