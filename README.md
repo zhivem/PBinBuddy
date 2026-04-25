@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/zhivem/RecycleBinManagerPY/refs/heads/main/RecycleBinManager.ico" width="4%" height="4%"> PBinBuddy by [Zhivem]
+# <img src="https://raw.githubusercontent.com/zhivem/RecycleBinManagerPY/refs/heads/main/RecycleBinManager.ico" width="4%" height="4%"> RecycleBinManager by [Zhivem]
 
 ## Скриншоты 
 ![image](https://github.com/user-attachments/assets/b71883eb-768b-4d0a-aa2f-df2fb807be10)
@@ -6,11 +6,11 @@
 ![image](https://github.com/user-attachments/assets/27b121cc-eddd-40fc-bbaf-38340ffc7fce)
 
 > [!NOTE]
-> Утилиту BinBuddy, написанную на языке `C#`, можно посмотреть здесь: [RecycleBinManager на C#](https://github.com/zhivem/MinibinForkC). Эта версия утилиты имеет меньший размер и позволяет устанавливать дополнительные иконки. Эта версия PBinBuddy обновляется реже. 
+> Утилиту RecycleBinManager, написанную на языке `C#`, можно посмотреть здесь: [RecycleBinManager на C#](https://github.com/zhivem/MinibinForkC). Эта версия утилиты имеет меньший размер и позволяет устанавливать дополнительные иконки.
 
 ## Введение
 
-PBinBuddy — это Windows-приложение, написанное на языке `Python` и работающее в системном трее. Оно предоставляет удобные инструменты для управления корзиной: очистка, открытие, настройка автозапуска, выбор набора иконок и многое другое.
+RecycleBinManager — это Windows-приложение, написанное на языке `Python` и работающее в системном трее. Оно предоставляет удобные инструменты для управления корзиной: очистка, открытие, настройка автозапуска, выбор набора иконок и многое другое.
 
 ## Основные возможности 
 
