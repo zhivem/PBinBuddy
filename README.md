@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/zhivem/RecycleBinManagerPY/refs/heads/main/RecycleBinManager.ico" width="4%" height="4%"> RecycleBinManager by [Zhivem]
+# <img src="https://raw.githubusercontent.com/zhivem/RecycleBinManagerPY/refs/heads/main/RecycleBinManager.ico" width="4%" height="4%"> PBinBuddy by [Zhivem]
 
 ## Скриншоты 
 ![image](https://github.com/user-attachments/assets/b71883eb-768b-4d0a-aa2f-df2fb807be10)
